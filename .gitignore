@@ -1,0 +1,10 @@
+
+target/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.class
+*backup*.sql
+placement_db.sql
